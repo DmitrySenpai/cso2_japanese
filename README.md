@@ -9,3 +9,7 @@
 ` launcher.exe -enablecustom -lang japanese -masterip %ip% `
 
 **-enablecustom -lang japanese**
+
+---
+
+Launcher CSO2: https://github.com/Ochii/cso2-launcher
